@@ -1,0 +1,5 @@
+# Layer 2 — state snapshots
+
+Current-state notes that are OVERWRITTEN rather than appended (e.g. "where
+things stand right now"). Unlike the append-only log, these always reflect the
+present. See handoff.md for an example.

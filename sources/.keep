@@ -1,0 +1,8 @@
+# Layer 1 — raw, immutable sources
+
+This directory holds raw captures exactly as they came in. The AI reads these
+but NEVER edits them. One file per capture, named `YYYY-MM-DD-<slug>.md`, with
+provenance frontmatter (see CLAUDE.md). Redact secrets/credentials before saving.
+
+This .keep file keeps the directory in version control. See the fictional
+example alongside it for the expected format.

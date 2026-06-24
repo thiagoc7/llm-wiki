@@ -1,0 +1,12 @@
+# Never commit secrets to a public vault.
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials*
+
+# Editor / OS noise
+.obsidian/
+.DS_Store
+*.swp
